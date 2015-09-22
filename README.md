@@ -1,4 +1,8 @@
+# temperature-speed-altitude
+
 this is TJ's branch!
+
+stuffs to do: install git, install homebrew, install npm, install bower
 
 # temperature-speed-altitude
 
